@@ -4,4 +4,4 @@
  Detalhes:
 
  -> Linguagem de Programação C
- -> Bibliotecas específicas OpenGL
+ -> Bibliotecas específicas do OpenGL (Freeglut, glew)

@@ -1,0 +1,6 @@
+freeglut.dll
+*.exe
+*.depend
+*.layout
+*.cbp
+*main.o
