@@ -8,7 +8,6 @@ O próximo passo será instalar a build básica para o funcionamento do GCC.
 > apt-get install build-essential
 
 
-
 Agora que a build está instalada, vamos partir para as bibliotecas.
 
 A Primeira | FREEGLUT
